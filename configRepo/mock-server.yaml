@@ -1,0 +1,12 @@
+mock-server:
+  interfacesList:
+    - name: 'gspItemReview'
+      path: 'gspItemReview'
+    - name: 'gspItemLv2V2'
+      path: 'gspItemLv2V2'
+    - name: 'itemx'
+      path: 'itemx'
+    - name: 'shopTopLayoutsPublished'
+      path: 'shopTopLayoutsPublished'
+    - name: 'shopTopRanking'
+      path: 'shopTopRanking'
